@@ -203,7 +203,7 @@ dotnet run --project src/DS.Git.Cli -- ref delete refs/heads/old-feature
 
 ## 🛣️ Roadmap
 
-### Phase 1: Core Git Operations (Current)
+### Phase 1: Core Git Operations ✅ COMPLETE
 - [x] Repository initialization
 - [x] Blob storage (read/write)
 - [x] Basic CLI
@@ -214,7 +214,7 @@ dotnet run --project src/DS.Git.Cli -- ref delete refs/heads/old-feature
 - [x] Tag objects
 - [x] Reference management
 
-### Phase 3: Advanced Features
+### Phase 3: Advanced Features (Current)
 - [ ] Staging area (index)
 - [ ] Diff operations
 - [ ] Merge strategies
